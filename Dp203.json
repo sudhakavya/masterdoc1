@@ -1,0 +1,77 @@
+[
+  {
+    "Name": "DP-203T00: Data Engineering on Azure",
+    "Language": "English",
+    "BaseURL": "https://github.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/01/README.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/02/README.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/03/README.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/04/README.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/05/README.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/06/README.md",
+        "Order": 6
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/07/README.md",
+        "Order": 7
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/08/README.md",
+        "Order": 8
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/09/README.md",
+        "Order": 9
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/10/README.md",
+        "Order": 10
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/11/README.md",
+        "Order": 11
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/12/README.md",
+        "Order": 12
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/13/README.md",
+        "Order": 13
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/14/README.md",
+        "Order": 14
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/15/README.md",
+        "Order": 15
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/16/README.md",
+        "Order": 16
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/MicrosoftLearning/DP-203T00-Data-Engineering-on-Microsoft-Azure/main/Instructions/Labs/17/README.md",
+        "Order": 17
+      }
+    ]
+  }
+ ]
